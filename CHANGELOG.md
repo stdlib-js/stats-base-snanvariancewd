@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-21)
+## Unreleased (2025-07-17)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`2dc1303`](https://github.com/stdlib-js/stdlib/commit/2dc13030ffbb6ce3701cfdbb8fab4b648fe37fc4) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`bb4c5ac`](https://github.com/stdlib-js/stdlib/commit/bb4c5acb86f6acbae8579ab5f45e161a0c984dd8) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`4de7fc4`](https://github.com/stdlib-js/stdlib/commit/4de7fc4b59fa279a67b642213e90760eaf5f7b88) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`09a06ae`](https://github.com/stdlib-js/stdlib/commit/09a06aed3c53cc94cee541f7a9c22ec7cf89a6b2) - **refactor:** update `stats/base/snanvariancewd` native addon from C++ to C [(#4504)](https://github.com/stdlib-js/stdlib/pull/4504) _(by Dhruv Arvind Singh)_
